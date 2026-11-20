@@ -4,6 +4,7 @@ Animated React UI components. Copy a file into your project and use it.
 
 | Component | Folder |
 |-----------|--------|
+| Hover Bars | [hover-bars](./hover-bars) |
 | OTP Verification | [otp](./otp) |
 | Swipe to Pay | [swipe-pay](./swipe-pay) |
 
