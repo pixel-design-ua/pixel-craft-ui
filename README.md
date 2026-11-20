@@ -2,10 +2,10 @@
 
 Animated React UI components. Copy a file into your project and use it.
 
-| Component | Folder | Keyword |
-|-----------|--------|---------|
-| OTP Verification | [otp](./otp) | OTP |
-| Swipe to Pay | [swipe-pay](./swipe-pay) | PAY |
+| Component | Folder |
+|-----------|--------|
+| OTP Verification | [otp](./otp) |
+| Swipe to Pay | [swipe-pay](./swipe-pay) |
 
 All components use `react` and `framer-motion`:
 
@@ -13,7 +13,7 @@ All components use `react` and `framer-motion`:
 npm i react react-dom framer-motion
 ```
 
-Follow on Instagram: [@pixelcraftua](https://www.instagram.com/pixelcraftua/)
+Follow on Instagram: [@pixelcraftua](https://www.instagram.com/pixelcraftua/). DM "CODE" to get the link to this repo.
 
 ## License
 
