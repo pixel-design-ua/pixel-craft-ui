@@ -5,6 +5,7 @@ Animated React UI components. Copy a file into your project and use it.
 | Component | Folder |
 |-----------|--------|
 | Neon Tabs | [neon-tabs](./neon-tabs) |
+| Graph Search | [orbit-graph-v3](./orbit-graph-v3) |
 | OTP Verification | [otp](./otp) |
 | Swipe to Pay | [swipe-pay](./swipe-pay) |
 
