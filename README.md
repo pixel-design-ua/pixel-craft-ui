@@ -8,6 +8,7 @@ Animated React UI components. Copy a file into your project and use it.
 | Graph Search | [orbit-graph-v3](./orbit-graph-v3) |
 | OTP Verification | [otp](./otp) |
 | Swipe to Pay | [swipe-pay](./swipe-pay) |
+| Vinyl Deck | [vinyl-deck](./vinyl-deck) |
 
 All components use `react` and `framer-motion`:
 
