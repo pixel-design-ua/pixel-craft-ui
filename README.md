@@ -11,6 +11,7 @@ Animated React UI components. Copy a file into your project and use it.
 | OTP Verification | [otp](./otp) |
 | Swipe to Pay | [swipe-pay](./swipe-pay) |
 | Vinyl Deck | [vinyl-deck](./vinyl-deck) |
+| Voice Orb | [voice-orb](./voice-orb) |
 
 All components use `react` and `framer-motion`:
 
