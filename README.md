@@ -4,6 +4,7 @@ Animated React UI components. Copy a file into your project and use it.
 
 | Component | Folder |
 |-----------|--------|
+| Beacon Dial | [beacon-dial](./beacon-dial) |
 | Daylight Slider | [daylight-slider](./daylight-slider) |
 | Neon Tabs | [neon-tabs](./neon-tabs) |
 | Object Scan | [object-scan](./object-scan) |
